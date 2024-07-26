@@ -1,0 +1,16 @@
+package Challenge1;
+
+public class Duck extends Animal {
+
+    public String beakColor = "Yellow";
+
+    public void quack() {
+
+    }
+
+    @Override
+    public void swim() {
+
+    }
+
+}
